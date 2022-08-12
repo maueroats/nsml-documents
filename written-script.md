@@ -60,7 +60,8 @@ The basic league parameters for all calculators are:
 * Calculators must be battery or solar powered.
 * Calculators can not have printouts. 
 
-Other recommendations:
+## Other Recommendations
+
 * Instructions to "use your best judgement" should be clarified. (Agin?)
 * Final instructions: (see edited closing, above)
 
