@@ -7,3 +7,7 @@ North Suburban Mathematics League documents - rules for events, guidance for run
 * [Orals contest script](orals-contestant.md)
 * [Orals judge instructions](orals-judges.md)
 * [Orals extra paper](orals-extrapaper.md) - used for extra paper on the contest.
+
+## Unofficial
+
+* [Advice for new hosts](newhost-advice.md)
