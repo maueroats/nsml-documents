@@ -2,27 +2,6 @@
 
 # Host Instructions for NSML Meets
 
-## Reminders
-
-1. Schools on strike may not compete.
-2. Students below the 9th grade may not compete as contestants, but may compete as
-alternates.
-3. NSML rules and proctor scripts are posted on the League’s website ([www.nsml.org](https://www.nsml.org)).
-4. Cell phones must be turned off and not visible during the contest. If a cell phone goes off
-during a contest, the student will be disqualified for that event for that meet. If a cell
-phone is visible, the proctor will request that the student put it away. If the student does
-not comply, the student will be disqualified for that event for that meet. Disqualification
-in these circumstances means that a student will get a score of zero for the contest the
-student is taking. The student may compete at other meets, or, if the violation occurs in
-the first round, the student may compete at another level in the second round that night.
-No oralist may have a cell phone with them in the sequester or preparation rooms. An
-oralist who violates this rule will be disqualified for the entire evening. Make your
-proctors aware of this rule.
-5. Head coaches: It is important for the League President to have correct contact information
-to reach you in case of an emergency, scoring change, or other announcement. Please
-make sure that your contact information on the League’s website is current. Several days
-before the meet, the League president will ask you by e-mail to verify your contact
-information.
 
 ## About one month in advance of the contest
 1. Reserve rooms in your school. You will need a minimum of:
@@ -86,7 +65,10 @@ phone or e-mail by the League President or other member of the NSML Board. At al
 times prior to the contest, keep questions and answers secure and out of plain view.
 2. Checking for Errors: The head coach should ask a trustworthy, non-math team math
 teacher to review printed versions of the e-mail attachments for transmission and copy
-errors only. **It is inappropriate for a coach or anyone else at the host school to review or
+errors only. The most common kind of error is an obvious corruption of
+a diagram (e.g., labels of points disappear or come out as
+symbols). _Compare the printed version to the online version_ to catch these.
+**It is inappropriate for a coach or anyone else at the host school to review or
 work through the problems before the contest.** The questions have been proofread, and if
 there is an error, we will deal with it on the night of the meet.
 ## The night of the contest
@@ -117,15 +99,20 @@ more than 10 minutes.
 14. Save extra ribbons and return them to the NSML Ribbon Coordinator at the annual
 coaches meeting.
 ## Appeals
-In general, the host school is not involved at all in handling appeals, or responsible for
-answering questions about procedure. Member schools are responsible for knowing the
-League’s rules regarding appeals and for submitting appeals in accordance with the rules.
-Any questions about procedure can be directed to the League President.
-One exception is the case of an obviously wrong answer on the official answer sheet. If you
-suspect this to be the case, call the Appeals Committee Chair immediately on his/her cell
-phone. If you are unable to reach him, call the League President on his/her cell phone. If you
+In general, the host school is not involved at all in handling
+appeals. See [general meet instructions](meet-instructions.md).
+The case of an obviously wrong answer on the official answer sheet is
+handled specially. If you
+suspect this to be the case: (1) check your texts and email (it may
+already be handled); (2) call the League President or Appeals
+Committee Chair on his/her cell phone.
+~~If you
 are unable to reach either person, and the situation requires an immediate decision, the host
-school has the final authority to decide.
+school has the final authority to decide.~~
+
+When in doubt about a situation, take action
+that allows for a later decision either way. (For example, allow a
+student to finish taking the contest when their eligibility is in doubt.)
 Current contact information for the Appeals Committee Chair and League President will be
 sent to host schools by e-mail several days before the meet date.
 ## Unusual Events
@@ -142,3 +129,5 @@ the contest to do what she or he thinks is best.
 
 * 6/2017 Revised
 * 5/2022 Imported to new format (Markdown)
+* 9/2022 Moved all-school meet instructions to a separate document.
+* 9/2022 Small edits and rephrasing.
