@@ -1,6 +1,7 @@
 # NSML Documents
 North Suburban Mathematics League documents - rules for events, guidance for running meets.
 
+* [General meet regulations](meet-instructions.md)
 * [Host instructions](host-instructions.md)
 * [Host copy list](host-copies.md)
 * [Written contest script](written-script.md)

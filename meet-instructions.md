@@ -4,7 +4,9 @@
 
 ## Visiting Schools
 
-**Want to bring more than 5 alternates per grade level?** Contact the
+* If you are delayed or unable to attend, please inform the host
+  immediately.
+* **Want to bring more than 5 alternates per grade level?** Contact the
 host early. Volunteer extra coaches for proctoring (if you have
 them). Staff and space may make this tight. Please be understanding if
 the host school cannot make this work.
