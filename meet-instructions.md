@@ -1,6 +1,15 @@
 ![NSML_Logo.jpg](NSML_Logo.jpg)
 
-# General Regulations for NSML Meets
+# NSML Meets: General Information
+
+## Visiting Schools
+
+**Want to bring more than 5 alternates per grade level?** Contact the
+host early. Volunteer extra coaches for proctoring (if you have
+them). Staff and space may make this tight. Please be understanding if
+the host school cannot make this work.
+
+## General Regulations
 
 1. Schools on strike may not compete.
 2. Students below the 9th grade may not compete as contestants, but may compete as

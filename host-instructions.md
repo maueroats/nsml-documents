@@ -2,7 +2,6 @@
 
 # Host Instructions for NSML Meets
 
-
 ## About one month in advance of the contest
 1. Reserve rooms in your school. You will need a minimum of:
     * Four rooms for written events, or space to hold at least 100 contestants. (Five
@@ -22,9 +21,15 @@ people.
 bring between 20 and 30 students, but there could be 40 or more. Use your own judgment
 and resources to decide how much to get.
 5. Prepare documents to send to the head coaches of the schools competing at your site.
-These documents should include: (a) a schedule of contest start times (including the oral
-contest draw); (b) a map with directions to your school; and (c) a statement indicating
-whether schools are limited to five alternates per written event or may bring more. It is
+These documents should include:
+     1. a schedule of contest start times (including the oral
+contest draw);
+     2. a map with directions to your school;
+     3. a statement about cafeteria space availability and/or food in rooms; and
+     4. a statement indicating whether schools are limited to five
+        alternates per written event or may bring more.
+
+   It is
 desirable to determine the order of the oral presentations through a random draw in the
 presence of the contestants on the night of the contest. You may, however, include an oral
 timetable with the schedule. In either case, the selection process must be random.
@@ -33,16 +38,17 @@ The orals will be sent in two forms: a three-page contestant form and a one page
 form. You will need to copy an adequate number of both. _It is critical that the
 contestants get the three-page form._
 7. Assign faculty to be in charge of the various events. You will need a minimum of:
-    * Written rooms: One proctor for each room.
-    * Oral rooms: Two proctors—one for sequestering and preparation and one timer in
+
+   * Written rooms: One proctor for each room.
+   * Oral rooms: Two proctors—one for sequestering and preparation and one timer in
 the presentation room.
-    * Grading: Three to five people to grade, double-check the grading, fill out score
+   * Grading: Three to five people to grade, double-check the grading, fill out score
 sheets and ribbons, and stuff envelopes.
-    * Data Entry: Two people to enter scores. One person could also be a grader. It is
+   * Data Entry: Two people to enter scores. One person could also be a grader. It is
 imperative that the scores be entered correctly, so two pairs of eyes on this is a
 must.
 
-    Make efforts to ensure that all proctors understand the rules of the contest and how each
+   Make efforts to ensure that all proctors understand the rules of the contest and how each
 event should be run. In particular, make sure written proctors understand the rules
 regarding instructions given before the contest begins, time announcements, and questions
 for contestants. Be sure the timer for the orals understands the oral rules and knows to
@@ -54,6 +60,11 @@ sheets in them. Also include a copy of the instructions for the proctor. Supply 
 proctor with blank scratch paper.
 10. Prepare 10" x 13" or larger envelopes labeled for each school for stuffing the night of the
 contest. Include in these envelopes a complete set of the questions and answers.
+
+## A week before the night of the contest
+
+Make sure you have sent an email the head coaches of all schools
+attending. Include the schedule and other items mentioned above.
 
 ## A few days before the night of the contest
 
