@@ -1,4 +1,4 @@
-![NSML_Logo.jpg](NSML_Logo.jpg)
+![NSML Logo](NSML_Logo.png)
 
 # Host Instructions for NSML Meets
 

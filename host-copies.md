@@ -1,4 +1,4 @@
-![NSML_Logo.jpg](NSML_Logo.jpg)
+![NSML Logo](NSML_Logo.png)
 
 Here is a list of how many copies of each item you will need.
 Note that if you have extra alternates, you will need more.

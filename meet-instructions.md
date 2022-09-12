@@ -1,4 +1,4 @@
-![NSML_Logo.jpg](NSML_Logo.jpg)
+![NSML Logo](NSML_Logo.png)
 
 # NSML Meets: General Information
 
@@ -24,15 +24,17 @@ not comply, the student will be disqualified for that event for that meet. Disqu
 in these circumstances means that a student will get a score of zero for the contest the
 student is taking. The student may compete at other meets, or, if the violation occurs in
 the first round, the student may compete at another level in the second round that night.
-No oralist may have a cell phone with them in the sequester or preparation rooms. An
+5. No oralist may have a cell phone with them in the **sequester** or preparation rooms. An
 oralist who violates this rule will be disqualified for the entire evening. Make your
 proctors aware of this rule.
-5. Head coaches: It is important for the League President to have correct contact information
+
+## Contacts and Appeals
+1. Head coaches: It is important for the League President to have correct contact information
 to reach you in case of an emergency, scoring change, or other announcement. Please
 make sure that your contact information on the League’s website is current. Several days
 before the meet, the League president will ask you by e-mail to verify your contact
 information.
-6. (Appeals.) Member schools are responsible for knowing the League’s
+2. (Appeals.) Member schools are responsible for knowing the League’s
 rules regarding appeals and for submitting appeals in accordance with
 the rules.  The host school is not involved at all in handling
 appeals, or responsible for answering questions about procedure.

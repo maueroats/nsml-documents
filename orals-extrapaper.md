@@ -1,3 +1,3 @@
-![NSML_Logo.jpg](NSML_Logo.jpg)
+![NSML Logo](NSML_Logo.png)
 
 ## Orals: Extra Paper

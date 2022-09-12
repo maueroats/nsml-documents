@@ -1,4 +1,4 @@
-![NSML_Logo.jpg](NSML_Logo.jpg)
+![NSML Logo](NSML_Logo.png)
 
 # NSML Written Script
 
@@ -18,7 +18,7 @@ Read the appropriate sections 1 and 2 below.
 
 Read the following:
 
-> You are not allowed to use a calculator on this contest. 
+> You are not allowed to use a calculator on this contest.
 
 Proceed to read the closing (below).
 
@@ -46,11 +46,11 @@ Proceed to read the closing (below).
 ## 2. Closing
 
 * I am not allowed to answer any questions you have about the contest.
-* If a question appears ambiguous or impossible, use your best judgment as to the correct answer and file an appeal after the contest. 
+* If a question appears ambiguous or impossible, use your best judgment as to the correct answer and file an appeal after the contest.
 * ~~All answers should be exact unless another form is specified.~~
 * The written contest is thirty minutes long. I will give you a warning when
-five minutes remain. 
-* When you turn your paper over, print your name and school name legibly in the space provided. 
+five minutes remain.
+* When you turn your paper over, print your name and school name legibly in the space provided.
 * You may begin.
 
 ## Recommended Changes
@@ -58,10 +58,9 @@ five minutes remain.
 The basic league parameters for all calculators are:
 
 * Calculators must be battery or solar powered.
-* Calculators can not have printouts. 
+* Calculators can not have printouts.
 
 ## Other Recommendations
 
 * Instructions to "use your best judgement" should be clarified. (Agin?)
 * Final instructions: (see edited closing, above)
-

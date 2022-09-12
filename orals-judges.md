@@ -1,4 +1,4 @@
-![NSML_Logo.jpg](NSML_Logo.jpg)
+![NSML Logo](NSML_Logo.png)
 
 # Instructions to Oral Judges
 
@@ -30,4 +30,4 @@ more time to carefully complete the report forms.
 
 Thank you for taking the time and putting forth the effort to undertake the important task of
 judging. Careful, fair judging is an important component in encouraging students to continue their
-study of mathematics. Your efforts are appreciated. 
+study of mathematics. Your efforts are appreciated.
