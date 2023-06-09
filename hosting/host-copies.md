@@ -59,9 +59,9 @@ table {
 |     | 1 for each school × 5 schools           |       5 |
 |     | 1 for the grader's answer key           |       1 |
 
-[1]: /resources/oralsummaryform.pdf
-[2]: /resources/oralcomments.pdf
-[3]: /resources/candybar-answersheet.pdf
+[1]: ../resources/oralsummaryform.pdf
+[2]: ../resources/oralcomments.pdf
+[3]: ../resources/candybar-answersheet.pdf
 [4]: orals-contestant
 [5]: written-script
 [6]: orals-judges
