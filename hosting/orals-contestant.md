@@ -7,17 +7,15 @@ nav_order: 240
 
 # NSML Orals Instructions
 
-Welcome to the orals judging room.
-~~There are two judges for this event. Your score will be the average of
-their scores.~~ During your presentation, you may only refer to the notes you
-have made on the question sheets you were given at the beginning of the
-contest. Use of a calculator, text, or other notes during your presentation
-is prohibited.
+Welcome to the orals judging room. During your presentation, you may
+only refer to the notes you have made on the question sheets you were
+given at the beginning of the contest. Use of a calculator, text, or
+other notes during your presentation is prohibited.
 
 You have ten minutes of uninterrupted time to answer the questions. I
 will give a verbal warning that "two minutes" are left and when "one
-minute" is left. At the end of ten minutes, I will say "time". Please
-finish your sentence and then stop.
+minute" is left. At the end of ten minutes, I will say "time to
+stop". Please finish your sentence and then stop.
 
 ## Two Presenters
 
