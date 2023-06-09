@@ -7,13 +7,17 @@ nav_order: 230
 
 # NSML Written Script
 
-As students enter the room, remind them that they are not allowed to
-have a cell phone with them. Instruct anyone with a cell phone to return
-it to their team’s homeroom.
+Note whether or not the room has a visible clock, and use that
+information as you read the "[closing](#2-closing)".
 
-> Please turn off any smart devices. Any cell phones should be returned to the
-classroom. If your cell phone or smart device is heard during the contest,
-your contest will be disqualified.
+As students enter the room, remind them that they are not allowed to
+have a smart watch or cell phone with them. Instruct anyone with
+such a device to return it to their team’s homeroom.
+
+> Please turn off any smart devices. You may not be wearing a smart
+watch. Cell phones and smart watches should be returned to your
+homeroom. If your device is heard during the contest, you will
+be disqualified from this event.
 
 Announce the grade level and check to see that every team is represented.
 
@@ -53,8 +57,10 @@ Proceed to read the closing (below).
 * I am not allowed to answer any questions you have about the contest.
 * If a question appears ambiguous or impossible, use your best judgment as to the correct answer and file an appeal after the contest.
 * ~~All answers should be exact unless another form is specified.~~
-* The written contest is thirty minutes long. I will give you a warning when
-five minutes remain.
+* The written contest is thirty minutes long.
+* (If the room has no visible clock.) I will give you a warning when
+  15 minutes and 5 minutes remain.
+* (If the room has a visible clock.) I will give you a warning when five minutes remain.
 * When you turn your paper over, print your name and school name legibly in the space provided.
 * You may begin.
 
