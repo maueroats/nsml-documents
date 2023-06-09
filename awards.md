@@ -4,7 +4,29 @@ layout: xdefault
 nav_order: 35
 ---
 
-## Awards
+## Meet Awards
+
+Ribbons will be awarded at each contest.
+* Blue ribbons will be awarded to all five members of the winning
+school at each grade level.
+* Red ribbons will be awarded to all five members of the second place
+team at each grade level.
+* A gold ribbon will be awarded to each student with a perfect score
+  (including orals).
+* In case of ties, duplicate ribbons should be awarded.
+
+Additional orals ribbons:
+* A green ribbon will be given to the top orals individual or team at
+  each meet.
+* A white ribbon will be given to the orals individual or team with
+  the second highest score.
+
+## Season Awards
+
+1. Plaques will be awarded at the end of each season to the top three
+   schools at each division at each grade level (and orals), as
+   determined by total points at that level. No grade level trophies
+   will be awarded.
 
 1. At the conclusion of the season, trophies will be awarded to the
    top N schools as determined by total points, where N is the number
