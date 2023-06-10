@@ -2,7 +2,7 @@
 title: "Knowledge"
 # parent: Home
 layout: xdefault
-nav_order: 200
+nav_order: 30
 ---
 
 ## NSML Assumed Knowledge

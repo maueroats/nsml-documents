@@ -2,7 +2,7 @@
 title: "Appeals"
 #parent: "Home"
 layout: xdefault
-nav_order: 40
+nav_order: 60
 ---
 
 ## Making an Appeal

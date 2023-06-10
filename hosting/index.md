@@ -1,7 +1,7 @@
 ---
 title: Hosting
 #parent: Home
-nav_order: 200
+nav_order: 40
 has_children: true
 layout: xdefault
 ---

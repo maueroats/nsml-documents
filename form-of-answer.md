@@ -2,7 +2,7 @@
 title: "Acceptable Forms"
 #parent: Home
 layout: xdefault
-nav_order: 30
+nav_order: 20
 ---
 ## Acceptable Forms of Answers
 

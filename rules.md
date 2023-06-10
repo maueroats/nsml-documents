@@ -100,7 +100,12 @@ of appeal. The [appeals procedure](appeals) is explained in a separate
 document.
 
 8. (Competing at two levels.)
-Students may compete in more than one event at each meet.  However, it is the philosophy of the league that as many students as possible participate.  Students may compete above their grade level but not below it. No one may compete as a contestant in both the oral and written events at a given meet.
+Students may compete in more than one event at each meet.  However, it
+is the philosophy of the league that as many students as possible
+participate.  As such, no student should be left at home so that
+another student may compete at two levels.  Students may compete above
+their grade level but not below it. No one may compete as a contestant
+in both the oral and written events at a given meet.
 
 ## Oral Events
 
