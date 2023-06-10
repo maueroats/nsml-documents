@@ -56,7 +56,6 @@ Proceed to read the closing (below).
 
 * I am not allowed to answer any questions you have about the contest.
 * If a question appears ambiguous or impossible, use your best judgment as to the correct answer and file an appeal after the contest.
-* ~~All answers should be exact unless another form is specified.~~
 * The written contest is thirty minutes long.
 * (If the room has no visible clock.) I will give you a warning when
   15 minutes and 5 minutes remain.
@@ -70,8 +69,3 @@ The basic league parameters for all calculators are:
 
 * Calculators must be battery or solar powered.
 * Calculators can not have printouts.
-
-## Other Recommendations
-
-* Instructions to "use your best judgement" should be clarified. (Agin?)
-* Final instructions: (see edited closing, above)

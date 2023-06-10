@@ -14,9 +14,7 @@ your judging assignment so you will be able to give a fair assessment of the stu
 presentation.
 7. Please make comments as detailed as feasible about the strengths and weaknesses of
 presentation and content. Include suggestions for improvement.
-4. Correctness includes: accuracy and completeness. ~~A student with a fundamental understanding
-of the material should receive a majority of the points, even if the student misses details or a
-special case.~~ Follow the rubric carefully when one is given.
+4. Correctness includes: accuracy and completeness. Follow the rubric carefully when one is given.
 5. Presentation includes: organization, clarity, use of visual aids, articulation, correct use of
 notation and vocabulary, and poise. It does not include dress or appearance. The oral
 competition is about how well the oralists know and communicate math. Under no

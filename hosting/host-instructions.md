@@ -130,9 +130,6 @@ handled specially. If you
 suspect this to be the case: (1) check your texts and email (it may
 already be handled); (2) call the League President or Appeals
 Committee Chair on his/her cell phone.
-~~If you
-are unable to reach either person, and the situation requires an immediate decision, the host
-school has the final authority to decide.~~
 
 When in doubt about a situation, take action
 that allows for a later decision either way. (For example, allow a
