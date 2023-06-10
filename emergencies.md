@@ -18,7 +18,7 @@ be served with substitute questions, all make-up questions must be the
 same as the actual competition.
 
 This policy is for situations where normal participation is not physically
-possible or where concern for the safety of students and coaches prevents
+possible, or where concern for the safety of students and coaches prevents
 normal participation.  It is imperative that all schools submit accurate
 contact information to the league so that in the event of an emergency, schools
 can contact one another and can be contacted by the president.
@@ -32,19 +32,12 @@ Any school making habitual or apparently abusive use of this policy may be
 subject to sanctions at the discretion of the board.
 
 
-## Orals (edits needed)
-
-~~Orals cannot be made up except in groups of four or more schools and must be
-made up within three school days of the scheduled meet.  All arrangements,
-including qualified judges, must be made by the schools involved, subject to
-approval by the president.  The site and time are to be chosen by consensus of
-involved schools.  (The originally assigned judges are not responsible for this
-make up meet.  Involved schools must arrange to provide qualified
-judges.)~~
+## Orals
 
 Orals can be made up by video submission. Ideally the oralist will
 make a recording of their presentation the night of the event. All
-orals must be made up by the end of Friday, the week of the meet.
+orals must be made up by the end of Friday, the week of the meet. The
+president will make arrangements for scoring.
 
 A school is only eligible to make up the oral if they are also
 eligible to make up at least one of the two rounds of written
@@ -56,73 +49,69 @@ importance of integrity to the oralist.
 
 ## Particular Situations
 
-This section dictates the standard NSML protocol for various situations.
+Original NSML rules had a protocol for many eventualities. The
+ubiquity of cell phones and email makes managing unexpected situations easier.
 
-### School unable to get to site, stuck on the way to site
+* The league president is in charge of problem-solving.
+* If a school is unhappy with the president's resolution, they may
+  appeal to the board of directors.
+* If there is a problem, contact the host school and try to deal with
+  it locally.
+* If the problem makes it impossible for your school to compete at the
+  planned location on the planned day, contact the president.
+* The integrity of the contest is an important consideration. This
+  means taking contests after other contestants have finished is very
+  undesirable.
 
-The school must keep the host school apprised of their predicament and must
-contact the president before 11pm on the night of the scheduled meet.  The
-school will be allowed to administer the contest at their own school, under
-proper contest conditions, within three school days of the meet.  Coaches
-should direct students to avoid any improper contact with students who have
-taken the contest and should emphasize the importance of integrity to students
-taking the make-up competition.
+Parameters for problem solving:
+* Orals should occur the night of the contest. See [above](#orals).
+* Delays of less than 30 minutes are easy. The host school texts the
+  league president and their meet runs on a slightly altered schedule.
+* Longer delays should involve a conversation with the president.
+* Competing remotely must be approved by the president. The
+  board must be notified.
+* Taking the exam at a later date requires communication with the
+  president and board approval. Discuss the circumstances with the
+  president. The sooner the better. One important question is: "Is it
+  possible to make up the contest on the next school day?"
+* All make-up competitions must be completed within three school days
+  of the contest.
+* Under no circumstances are the contests permitted to be given early.
 
-### School unable to get to site, stuck at home
+Coaches should direct students to avoid any improper contact with
+students who have taken the contest and should emphasize the
+importance of integrity to students taking the make-up competition.
 
-The school must keep the host school apprised of their predicament and must
-contact the president as soon as possible.  The best option is for the contest
-to be sent (email, fax, etc.) to the school to be administered at home
-concurrent with the scheduled meet under proper conditions, results to be sent
-separately to the statisticians.  If conditions specific to the school prevent
-this, follow the "unable to get to site, stuck on the way" rules.
+List of circumstances from the detailed regulations:
+* School unable to get to site, stuck on the way to site. (Make-up.)
+* School unable to get to site, stuck at home. (Remote contest, same night.)
+* School arrives significantly late to site. (Delay, complete as much
+  as possible the night of the event. Possible make-up.)
+* Host school unable to host. (Immediately contact the president.)
 
-### School arrives significantly late to site
-
-The school must contact host as soon as possible and provide updated ETAs when
-possible.  The school should abandon the trip if arrival for the
-Sophomore/Senior round is not possible (allowing for a slightly delayed start
-of that round at the discretion of the host).  The host school should make
-every reasonable attempt to administer the contest to a late arriving school
-under contest circumstances.  If this means sequestering contestants for a few
-minutes, that should be done.  If host school can accommodate a somewhat
-altered schedule for the late-arriving school (e.g. Freshman/Junior round run
-concurrently with Sophomore/Senior round for the late school only), this should
-be done.  Events missed (Freshman/Junior round only or whole meet) will be
-dealt with following the "unable to get to site, stuck on the way" rules.
-
-### Host school unable to host
-
-The host school must contact the president as soon as possible so that schools
-scheduled to compete at that host site can be notified and reassigned by the
-president.  The host school is subject to the "unable to get to site, stuck at
-home" rules with respect to their own team.  In particular, the host school
-should monitor weather conditions in their area and alert the president of
-potential problems or interruptions of the meet as soon as possible.
-
-If the president can reassign the visiting schools by 2pm, the visiting schools
-must compete as directed unless otherwise affected.  If the visiting schools
-are not contacted until after 2pm, the visiting schools may compete as directed
-by the president or opt to abandon the trip and follow the "unable to get to
-site, stuck at home" or the "unable to get to site, stuck on the way" rules.
-
-Host schools canceling meets habitually or in an apparently abusive manner may
-be subject to sanctions at the discretion of the board.
+Other special circumstances:
 
 ### Participation forbidden by administration
 
+Immediately contact the president, who will manage the details.
 Compete remotely on the night of the meet if possible.  Otherwise the
 president and/or board of directors will need to approve taking the exam
 on the next school day. Taking the exam later than that is unlikely to
 be approved.
 
+### Meet cancelled by administration
+
+Immediately contact the president, who will manage the details.
+Schools scheduled to compete at that site have an obligation to
+attempt to find an alternate site.
+
 ### Interruption of meet in progress
 
 The host school should attempt to preserve and continue any event already
 started (running for more than five minutes), as these cannot reasonably be
-made up.  Any part(s) of the meet not held or interrupted within the first five
+made up.  Any part(s) of the meet either not held or interrupted within the first five
 minutes can be made up in accordance with the "school unable to get to site,
-stuck at home" rules.
+stuck at home" rules. Contact the president when the chaos allows.
 
 ### Conference Meet
 

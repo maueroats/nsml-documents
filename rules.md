@@ -20,25 +20,6 @@ See also the [Policy for Inclement Weather and Other Emergencies](emergencies).
    coach of the host school should make a decision. Consult with the
    president of the organization if time allows.
 
-6. (**Move to emergencies**) In the event that a school's administration calls off all after school activities on the day of a meet, the school will have the obligation to take the written events on the first full school day after school resumes. The questions will be emailed to the school and will be administered by the coach under contest rules. The oralist can be accommodated by video recording. The details will be decided by the president.
-
-7. If a meet is canceled due to a decision by a school's
-   administration, schools scheduled to compete at that site have an
-   obligation to attempt to find an alternate site. The school will
-   make every reasonable effort to compete on the night of the meet,
-   either at an alternative host school or remotely at their own
-   school. If they demonstrate that they have tried to reschedule, in
-   good faith, but have failed, they will be given the opportunity to
-   administer the contest the next school day at their school,
-   questions to be emailed to them, and administered, proctored and
-   graded by the coach. If a school is unable to demonstrate a
-   reasonable attempt to reschedule the night of the meet, they lose
-   the right to make up the meet. The president will decide what is
-   reasonable, the school having the option of appealing that decision
-   to the board. The oralist should be accommodated by video recording
-   with as little delay as possible. The details will be decided by
-   the president.
-
 ## Written Events
 
 1. (Contestants.) Each school may enter a maximum of five contestants at each event
@@ -96,13 +77,8 @@ See also the [Policy for Inclement Weather and Other Emergencies](emergencies).
    Some contests may be designated as no calculator contests. Consult
    the list of topics.
 
-   A student may
-   use at most three calculators. Battery or solar powered
-   calculators are allowed. ~~that does not do symbolic manipulation is
-   allowed. ~~Freshmen and sophomores may not use an HP48 series
-   calculator. In some cases, symbolic manipulators may be
-   expected. These contests will be designated as CAS
-   topics.~~
+   A student may use at most three calculators. Battery or solar
+   powered calculators are allowed.
 
    A student may use a paper foreign
    language dictionary. If desired, the host school may examine the
@@ -135,28 +111,13 @@ presentation, the contestant will be instructed to report to the oral
 preparation room and will be given a copy of the questions. There will
 be three questions, each on a different sheet of paper. Fifteen
 minutes are allowed for preparation. During the preparation, the
-contestant may use any print or written materials. A calculator of any
-type may be allowed, depending on the contest. Laptops, phones, and
+contestant may use any print or written materials. A calculator
+may be allowed, depending on the contest. Laptops, phones, and
 other electronic devices may not be used at any time. Notes should be
-made on the question sheets, as only the question sheets may be used
-in the presentation room. The contestant may not use a calculator
-during the presentation. When the contestant enters the presentation
-room, the timer will read the instructions aloud. ~~The timer will
-answer any questions about the instructions, but may not answer any
-questions about the material. The timer will then ask the contestant
-if he or she wants a verbal or a silent warning about how much time
-remains.~~ The contestant will ~~choose a verbal or silent
-warning,~~write his or her name and the school name on the board, and
-begin. Timing will start when the contestant begins to answer the
-questions. The contestant will have ten minutes of uninterrupted time
-to answer the questions. There will be two and one minute warnings.
-~~After eight minutes, the timer will hold up
-two fingers to indicate that two minutes remain or will announce "two
-minutes remain," according to the contestant’s preference. After nine
-minutes, the timer will hold up one finger, or announce "one minute
-remains."~~  At the end of ten minutes, the timer will allow the
-contestant to complete his or her last sentence and will then ask the
-contestant to stop.
+made on the question sheets or specially marked extra paper.  Only the
+question sheets and specially marked paper may be used in the presentation room.
+When the contestant enters the presentation
+room, the timer will read the instructions aloud.
 
 2. For Meets 1 and 2, the oral contest is an individual event. Each oral contestant must prepare and present alone. For Meets 3 and 4, a school may enter a single contestant or an oral team of two students. Each member of an oral team may, but is not required to, participate in all parts of the presentation. The students may decide how to allocate their presentation time. For example, they may “trade off” questions they answer or one student may take the lead while the other student adds information or clarification as needed. Only one student at a time may be active, either speaking or writing, during the presentation time. The other student must sit quietly and **may not write** (on paper or on the board). Neither member of an oral team at a meet may participate as a contestant in a written contest as the same meet.
 
