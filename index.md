@@ -3,17 +3,23 @@ title: Home
 layout: home
 nav_order: 5
 ---
-# NSML Documents
-North Suburban Mathematics League documents - rules for events, guidance for running meets.
+<img src="{{ '/resources/NSML_Header_transparent.png' | relative_url }}" />
 
+# NSML Documents
+North Suburban Mathematics League documents: rules for events, guidance for running meets.
+
+<!--
 * [General meet regulations](meet-instructions)
 * [Emergencies including inclement weather](emergencies)
 * [Forms of Answer](form-of-answer)
 * [Appeals](appeals)
 * [General Rules](rules)
+-->
 
-## [Hosting](hosting/)
-Includes the items below.
+## Hosting
+
+The [hosting](hosting/) section includes the items below.
+
 * [Host instructions](hosting/host-instructions)
 * [Host copy list](hosting/host-copies)
   * [Written contest script](hosting/written-script)
