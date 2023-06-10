@@ -1,8 +1,9 @@
 ---
 title: "New Host Advice"
 parent: "Home"
-layout: xdefault
+layout: default
 ---
+<!-- note: layout deliberately does not include the NSML logo -->
 
 # Advice for New Meet Hosts
 

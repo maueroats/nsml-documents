@@ -4,6 +4,11 @@ layout: xdefault
 nav_order: 70
 ---
 
+# Awards
+
+This page details the awards for each meet, as well as the overall
+awards given at the conference meet.
+
 ## Meet Awards
 
 Ribbons will be awarded at each contest.

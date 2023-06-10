@@ -5,6 +5,12 @@ layout: xdefault
 nav_order: 60
 ---
 
+# Appeals
+
+An appeal should be filed when you believe you have a correct answer
+that was considered wrong. Please discuss your argument with another
+knowledgable coach or teacher before filing an appeal.
+
 ## Making an Appeal
 
 Consult the rules on the [form of an answer](form-of-answer.md) before

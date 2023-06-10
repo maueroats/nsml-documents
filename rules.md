@@ -7,7 +7,7 @@ nav_order: 50
 
 This page contains information not related to particular meets.
 
-## General Rules
+# General Rules
 
 See also the [Policy for Inclement Weather and Other
 Emergencies](emergencies) as well as the statement of [philosophy](philosophy).

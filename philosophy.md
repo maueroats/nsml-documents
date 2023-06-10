@@ -1,10 +1,10 @@
 ---
 title: Philosophy
 layout: xdefault
-nav_order: 500
+nav_order: 5
 ---
 
-## Philosophy
+# Philosophy
 
 The top priority of the league is to encourage the involvement of as
 many students as possible in a challenging mathematics experience

@@ -4,7 +4,7 @@ title: "Acceptable Forms"
 layout: xdefault
 nav_order: 20
 ---
-## Acceptable Forms of Answers
+# Acceptable Forms of Answers
 
 All written answers must meet the following specifications unless instructions state otherwise.
 
