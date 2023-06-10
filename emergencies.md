@@ -17,6 +17,11 @@ results at the conference meet is not practical.  As fairness cannot
 be served with substitute questions, all make-up questions must be the
 same as the actual competition.
 
+In handling emergencies, the league needs to balance the integrity of
+the contest with the participation of the students. Too much
+flexibility provides a greater opportunity for unethical behavior. Too
+little flexibility penalizes students for circumstances beyond their control.
+
 This policy is for situations where normal participation is not physically
 possible, or where concern for the safety of students and coaches prevents
 normal participation.  It is imperative that all schools submit accurate

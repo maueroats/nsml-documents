@@ -5,18 +5,18 @@ layout: xdefault
 nav_order: 50
 ---
 
-# WIP WORK IN PROGRESS
-
 This page contains information not related to particular meets.
 
-# General Rules
+## General Rules
 
-See also the [Policy for Inclement Weather and Other Emergencies](emergencies).
+See also the [Policy for Inclement Weather and Other
+Emergencies](emergencies) as well as the statement of [philosophy](philosophy).
 
-1. Variations of rules requiring president or board approval must be
+1. Regulations are designed to maintain the integrity of the contest
+   while keeping participation high.
+2. Variations of rules requiring president or board approval must be
    requested ahead of time. No post-hoc approvals will be granted.
-
-2. In the event of a situation not covered by the rules, the head
+3. In the event of a situation not covered by the rules, the head
    coach of the host school should make a decision. Consult with the
    president of the organization if time allows.
 
