@@ -7,7 +7,7 @@ layout: xdefault
 
 # Host Instructions for NSML Meets
 
-## About one month in advance of the contest
+## At least one month in advance of the contest
 
 1. Reserve rooms in your school. You will need a minimum of:
     * Four rooms for written events, or space to hold at least 100 contestants. (Five
@@ -94,17 +94,15 @@ there is an error, we will deal with it on the night of the meet.
 
 ## The night of the contest
 
-1. Post signs to direct arriving students to their homerooms, or arrange for student guides.
+1. Post signs to direct arriving students to their homerooms, or
+   arrange for student guides.
+2. Verify that teams can enter the school the way you expect.
 2. Double check question packets for each proctor.
 3. Place in written rooms (or give to proctors) scratch paper and extra pencils.
 4. Make sure refreshments for students and coaches are ready.
 5. Make sure the oral room has necessary equipment, such as a timer, chalk/markers and
 eraser, and any special equipment needed for the particular topic (e.g. construction
 material, overhead projector and pens, etc.).
-6. From the website, print out a copy of each team’s roster and place it in the home room
-with instructions on where to go to edit the rosters.
-7. Each visiting team should be given access to a computer (it can be the same one in the
-grading room) where they can edit their roster.
 8. Under League rules, an oralist, or member of an oral contest team, may compete as an
 alternate in a written event, but may not compete as a contestant in a written event. Check
 rosters to ensure that oralists are not competing as contestants on written events.
@@ -118,8 +116,7 @@ answers to written events not yet taken that night.
 13. Try to start the awards presentation as soon as possible. Displaying results on a large
 screen (with a little drama) works very well. In any case, the presentation need not last
 more than 10 minutes.
-14. Save extra ribbons and return them to the NSML Ribbon Coordinator at the annual
-coaches meeting.
+14. Save extra ribbons and return them to the NSML Ribbon Coordinator.
 
 ## Appeals
 
