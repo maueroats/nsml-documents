@@ -7,6 +7,8 @@ nav_order: 35
 
 # Calculators
 
+(This policy is currently under review.)
+
 If a calculator is on the current list of approved graphing
 calculators on the College Board's [AP Exams Calculator
 Policy](https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies#list),
@@ -16,4 +18,8 @@ Frosh and Sophomore level contests currently forbid calculators with
 Computer Algebra Systems (CAS), which will exclude some of the
 calculators on the list.
 
-This policy is currently under review.
+Rules for all calculators are:
+
+* Calculators must be battery or solar powered.
+* Calculators may not have printouts.
+* A student may use at most three calculators.

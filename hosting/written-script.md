@@ -62,10 +62,3 @@ Proceed to read the closing (below).
 * (If the room has a visible clock.) I will give you a warning when five minutes remain.
 * When you turn your paper over, print your name and school name legibly in the space provided.
 * You may begin.
-
-## Recommended Changes
-
-The basic league parameters for all calculators are:
-
-* Calculators must be battery or solar powered.
-* Calculators can not have printouts.
