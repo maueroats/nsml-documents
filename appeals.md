@@ -65,9 +65,7 @@ example).
 * The committee will render a decision as soon as possible after
 receiving the written appeal.
 * In the event that the coach is not satisfied with this decision, an
-appeal may be made to the league board of appeals, which consists of
-one representative from each of the host schools at the contested
-meet. Their decision will be final.
+appeal may be made to board of directors. Their decision will be final.
 
 Appeals will not affect the outcome of a particular meet, but will affect league standings. Ribbons will be awarded to reflect the corrected scores, if necessary, but none will ever be called back.
 
