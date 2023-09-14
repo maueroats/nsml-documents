@@ -56,7 +56,7 @@ Emergencies](emergencies) as well as the statement of [philosophy](philosophy).
 4. (Testing protocol.)
    * The freshman and junior competitions begin at 6:15; the sophomore and senior competitions begin at 7:00.
    * Tests will be
-   passed out face down.
+   passed out face down so that no questions are visible.
    * Each test will be exactly thirty minutes in length.
    * If a student arrives late, the student is not given extra time at the end.
    * The person in charge will tell the
@@ -74,22 +74,16 @@ Emergencies](emergencies) as well as the statement of [philosophy](philosophy).
    pencils, erasers, calculators, and extra batteries. Scratch
    paper will be provided.
 
-   Some contests may be designated as no calculator contests. Consult
-   the list of topics.
+   A student may use a paper or offline electronic foreign language
+   dictionary. If electronic, the student should demonstrate the
+   capabilities to the proctor.
+   It must not contain formulas or other content that would give the
+   student an unfair advantage.
 
-   A student may use at most three calculators. Battery or solar
-   powered calculators are allowed.
-
-   A student may use a paper foreign
-   language dictionary. If desired, the host school may examine the
-   dictionary to ensure that it is just a dictionary and does not
-   contain formulas or other content that would give the student an
-   unfair advantage.
-
-   "All electronic devices except for
+   We will disqualify the scores of any student violating rule
+   governing electronic devices. ("All electronic devices except for
    contest-approved calculators must be turned off and out of sight
-   during contests." We will disqualify the scores of students
-   violating this rule.
+   during contests.")
 
 6. (Issues with questions.)
    Once a test has begun, no problems will be altered and no questions will be answered. If a problem is impossible because it is underdetermined or overdetermined, the correct answer is "the problem is impossible." If a problem is ambiguous, the contestant should select what seems to be the best interpretation and solve it.
@@ -106,27 +100,6 @@ participate.  As such, no student should be left at home so that
 another student may compete at two levels.  Students may compete above
 their grade level but not below it. No one may compete as a contestant
 in both the oral and written events at a given meet.
-
-## Oral Events
-
-1. At the beginning of the contest, all oral contestants will be
-sequestered. Contestants may not leave the sequester room without
-permission from the host school. Fifteen minutes prior to the
-presentation, the contestant will be instructed to report to the oral
-preparation room and will be given a copy of the questions. There will
-be three questions, each on a different sheet of paper. Fifteen
-minutes are allowed for preparation. During the preparation, the
-contestant may use any print or written materials. A calculator
-may be allowed, depending on the contest. Laptops, phones, and
-other electronic devices may not be used at any time. Notes should be
-made on the question sheets or specially marked extra paper.  Only the
-question sheets and specially marked paper may be used in the presentation room.
-When the contestant enters the presentation
-room, the timer will read the instructions aloud.
-
-2. For Meets 1 and 2, the oral contest is an individual event. Each oral contestant must prepare and present alone. For Meets 3 and 4, a school may enter a single contestant or an oral team of two students. Each member of an oral team may, but is not required to, participate in all parts of the presentation. The students may decide how to allocate their presentation time. For example, they may “trade off” questions they answer or one student may take the lead while the other student adds information or clarification as needed. Only one student at a time may be active, either speaking or writing, during the presentation time. The other student must sit quietly and **may not write** (on paper or on the board). Neither member of an oral team at a meet may participate as a contestant in a written contest as the same meet.
-
-3. Students and their coaches are encouraged to attend their team's oral presentation, as long as space permits. Spectators should be seated in the room before the presentation begins and should remain quietly seated until it is completed. It is expected that an observer will obtain permission from the oral contestant or the oral contestant’s coach before observing an oral presentation.
 
 ## Conference Meet
 

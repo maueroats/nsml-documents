@@ -1,5 +1,5 @@
 ---
-title: "Orals Script"
+title: "Orals Instructions"
 parent: Hosting
 layout: xdefault
 nav_order: 240
@@ -20,7 +20,10 @@ stop". Please finish your sentence and then stop.
 
 ## Two Presenters
 
-Only one person at a time may present. The other may not write or work while the first person talks.
+Only one person at a time may present. The other must sit quietly and
+**may not write**.
+
+<!-- This differs slightly from the text in orals-rules.md -->
 
 ## Closing
 
