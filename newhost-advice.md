@@ -1,8 +1,8 @@
 ---
 title: "New Host Advice"
-# parent: "Home"
+parent: "Hosting"
 layout: default
-nav_order: 110
+nav_order: 310
 ---
 <!-- note: layout deliberately does not include the NSML logo -->
 
