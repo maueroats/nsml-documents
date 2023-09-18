@@ -68,7 +68,7 @@ contest. Include in these envelopes a complete set of the questions and answers.
 1. Make sure you have sent an email the head coaches of all schools
 attending. Include the schedule and other items mentioned above.
 
-2. This gives coaches time to get permission slips to students at the
+    This gives coaches time to get permission slips to students at the
 practice before the "meet week" if needed.
 
 ## A few days before the night of the contest
