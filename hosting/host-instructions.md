@@ -24,7 +24,7 @@ people.
 2. Order refreshments for coaches.
 3. Make refreshment arrangements for students, if feasible.
 4. Decide on prizes for the 20-question event. (Candy bars are a big favorite.) Most schools
-bring between 20 and 30 students, but there could be 40 or more. Use your own judgment
+bring between 20 and 30 students, but with large schools there could be 40 or more. Use your own judgment
 and resources to decide how much to get.
 5. Prepare documents to send to the head coaches of the schools competing at your site.
 These documents should include:
@@ -39,10 +39,6 @@ contest draw);
 desirable to determine the order of the oral presentations through a random draw in the
 presence of the contestants on the night of the contest. You may, however, include an oral
 timetable with the schedule. In either case, the selection process must be random.
-6. Instructions pertaining to the oral contest:
-The orals will be sent in two forms: a three-page contestant form and a one page judge’s
-form. You will need to copy an adequate number of both. _It is critical that the
-contestants get the three-page form._
 7. Assign faculty to be in charge of the various events. You will need a minimum of:
 
    * Written rooms: One proctor for each room.
@@ -83,7 +79,11 @@ duplicate the question sets in numbers sufficient for all participants and alter
 are any last minute changes to either the questions or the answers, you will be notified via
 phone or e-mail by the League President or other member of the NSML Board. At all
 times prior to the contest, keep questions and answers secure and out of plain view.
-2. Checking for Errors: The head coach should ask a trustworthy, non-math team math
+2. (Orals Copies)
+The orals will be sent in two forms: a three-page contestant form and a one page judge’s
+form. You will need to copy an adequate number of both. _It is critical that the
+contestants get the three-page form._
+3. Checking for Errors: The head coach should ask a trustworthy, non-math team math
 teacher to review printed versions of the e-mail attachments for transmission and copy
 errors only. The most common kind of error is an obvious corruption of
 a diagram (e.g., labels of points disappear or come out as
@@ -104,8 +104,7 @@ there is an error, we will deal with it on the night of the meet.
 eraser, and any special equipment needed for the particular topic (e.g. construction
 material, overhead projector and pens, etc.).
 8. Under League rules, an oralist, or member of an oral contest team, may compete as an
-alternate in a written event, but may not compete as a contestant in a written event. Check
-rosters to ensure that oralists are not competing as contestants on written events.
+alternate in a written event, but may not compete as a contestant in a written event.
 9. No roster changes are permitted after the first contest begins.
 10. Grade papers, double-check grading, and stuff school envelopes with their tests and a
 complete set of questions and answers.
