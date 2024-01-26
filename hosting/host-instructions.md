@@ -65,11 +65,24 @@ contest. Include in these envelopes a complete set of the questions and answers.
 
 ## Monday the week before the week of the contest
 
-1. Make sure you have sent an email the head coaches of all schools
+1. Assign students to contest rooms.
+
+    Example:
+
+      > Junior and Senior will be in 279 and 281. Please assign at
+      > most 8 students (per grade level) to room 279. Send the
+      > remainder to 281.
+
+   Room assignments should no longer be done by status (contestant vs
+   alternate). At some schools, students might not even know their status.
+
+2. Make sure you have sent an email to the head coaches of all schools
 attending. Include the schedule and other items mentioned above.
 
     This gives coaches time to get permission slips to students at the
 practice before the "meet week" if needed.
+
+
 
 ## A few days before the night of the contest
 
