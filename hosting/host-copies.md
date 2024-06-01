@@ -50,7 +50,7 @@ table {
 | 12. | [Instructions for the Oral Judges][6]   |   **2** |
 |     | 1 per judge × 2 judges                  |       2 |
 | 13. | Candy Bar Contests                      | **105** |
-|     | 20 per school × 5 schools               |     100 |
+|     | 30 per school × 5 schools               |     150 |
 |     | 1 for the packet × 5 schools            |       5 |
 | 14. | Candy Bar Answers                       |   **6** |
 |     | 1 for the packet × 5 schools            |       5 |
@@ -65,6 +65,7 @@ table {
 [4]: orals-contestant
 [5]: written-script
 [6]: orals-judges
+
 ## Notes
 
 If the meet allows two oralists, make ten copies. (Not sure? Make 10.)
