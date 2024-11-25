@@ -8,7 +8,7 @@ nav_order: 230
 # NSML Written Script
 
 Note whether or not the room has a visible clock, and use that
-information as you read the "[closing](#2-closing)".
+information as you read the "[closing](#closing)".
 
 As students enter the room, remind them that they are not allowed to
 have a smart watch or cell phone with them. Instruct anyone with
@@ -18,41 +18,13 @@ such a device to return it to their team’s homeroom.
 watch. Cell phones and smart watches should be returned to your
 homeroom. If your device is heard during the contest, you will
 be disqualified from this event.
+> No calculators are allowed.
 
 Announce the grade level and check to see that every team is represented.
 
-Read the appropriate sections 1 and 2 below.
-
-## 1a. Contests without Calculator
-
-Read the following:
-
-> You are not allowed to use a calculator on this contest.
-
 Proceed to read the closing (below).
 
-## 1b. Contests with Calculator, but NO CAS
-(Freshman and Sophomore levels.)
-
-Read the following:
-
-> Each contestant is allowed to use at most three calculators. Any
-calculator that does not have a symbolic manipulator is permitted.
-Specifically, the TI-89, TI-Nspire CAS, and HP-Prime are not allowed.
-Calculators may not be passed from one contestant to another.
-
-Proceed to read the closing (below).
-
-## 1c. Contests with Calculator, including CAS
-(Junior and Senior levels.)
-
-Read the following:
-
-> Each contestant is allowed to use at most three calculators. Calculators may not be passed from one contestant to another.
-
-Proceed to read the closing (below).
-
-## 2. Closing
+## Closing
 
 * I am not allowed to answer any questions you have about the contest.
 * If a question appears ambiguous or impossible, use your best judgment as to the correct answer and file an appeal after the contest.
