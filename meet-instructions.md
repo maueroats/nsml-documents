@@ -37,7 +37,7 @@ alternates.
    a score of zero for the contest the student is taking, but otherwise
    remains eligible to compete as normal.
 
-5. No oralist may have a cell phone with them in the **sequester** or preparation rooms. An
+5. No oralist may have a cell phone or computer with them in the **sequester** or preparation rooms. An
 oralist who violates this rule will be disqualified for the entire evening. Make your
 proctors aware of this rule.
 
