@@ -20,3 +20,15 @@ nav_order: 310
 * Many coaches use color paper to clearly identify the different contests and their corresponding blank answer sheets - this is a great idea. I use white for Candy Bar since we usually make the most of those, and it's the cheapest.
 * Have the orals timer check the markers (chalk, whatever) in the oral presentation room.
 * We have had some of our National Honor Society students not on math team help guide teams around - they are often looking for ways to be of service to the school and get credit hours for NHS. Talk to their sponsor, or have a student bring the idea up with them.
+
+## Additional FAQ
+
+* Addresses of schools can be found on the NSML web site, under About
+  NSML -> Address List when logged in.
+* Ribbons are mailed the week before the meet.
+* Contests are emailed to the host coach the end of the week before
+  the meet. For Thursday meets, they should arrive by the end of the day
+  the Thursday before. About half of the time that schedule slips to Friday
+  (and very rarely later than that). Let the president know at least
+  two weeks in advance if this timetable is a serious problem for your
+  school.
