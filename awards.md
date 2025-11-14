@@ -11,20 +11,15 @@ awards given at the conference meet.
 
 ## Meet Awards
 
-Ribbons will be awarded at each contest.
-* Blue ribbons will be awarded to all five members of the winning
-school at each grade level.
-* Red ribbons will be awarded to all five members of the second place
-team at each grade level.
-* A gold ribbon will be awarded to each student with a perfect score
-  (including orals).
-* In case of ties, duplicate ribbons should be awarded.
+Ribbons are awarded for the entire team, not just "contestants".
 
-Additional orals ribbons:
-* A green ribbon will be given to the top orals individual or team at
-  each meet.
-* A white ribbon will be given to the orals individual or team with
-  the second highest score.
+* Written event ribbons: first place (blue), second place (red).
+
+* Perfect score ribbons (gold): all perfect scores, including orals.
+
+* Orals event ribbons: green (first place), white (second place).
+
+In case of ties, duplicate ribbons will be awarded.
 
 ## Season Awards
 
