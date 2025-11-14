@@ -74,16 +74,15 @@ Emergencies](emergencies) as well as the statement of [philosophy](philosophy).
    pencils, erasers, calculators, and extra batteries. Scratch
    paper will be provided.
 
+   A student violating the rules governing electronic devices will be
+   disqualified. ("All electronic devices except for contest-approved
+   calculators must be turned off and out of sight during contests.")
+
    A student may use a paper or offline electronic foreign language
    dictionary. If electronic, the student should demonstrate the
    capabilities to the proctor.
    It must not contain formulas or other content that would give the
    student an unfair advantage.
-
-   We will disqualify the scores of any student violating rule
-   governing electronic devices. ("All electronic devices except for
-   contest-approved calculators must be turned off and out of sight
-   during contests.")
 
 6. (Issues with questions.)
    Once a test has begun, no problems will be altered and no questions will be answered. If a problem is impossible because it is underdetermined or overdetermined, the correct answer is "the problem is impossible." If a problem is ambiguous, the contestant should select what seems to be the best interpretation and solve it.
