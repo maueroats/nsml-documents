@@ -7,9 +7,9 @@ description: >
 
 theme: just-the-docs
 
-url: https://docs.nsml.org
+# url: https://docs.nsml.org
 
-# url: https://maueroats.github.io/nsml-documents
+url: https://maueroats.github.io/nsml-documents
 
 aux_links:
   Main NSML Site: https://nsml.org
