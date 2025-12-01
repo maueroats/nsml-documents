@@ -32,5 +32,6 @@ Proceed to read the closing (below).
 * (If the room has no visible clock.) I will give you a warning when
   15 minutes and 5 minutes remain.
 * (If the room has a visible clock.) I will give you a warning when five minutes remain.
-* When you turn your paper over, print your name and school name legibly in the space provided.
+* When you turn your paper over, the first thing you should do is
+  print your name and school name legibly in the space provided.
 * You may begin.
